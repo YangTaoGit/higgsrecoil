@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-#
 
 # Main driver to submit jobs 
 # Author SHI Xin <shixin@ihep.ac.cn>
